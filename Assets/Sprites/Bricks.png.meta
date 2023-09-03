@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 534b30ddf2b2d4fa6bff7228e396e6de
+guid: 09fdf860ac3384c358b976a7fba2dde4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -725005707778815227
-    second: 360_F_526663207_FxdDUt7rgJR4ximFRsH85SYLDwgZntdN_0
+      213: -5160660819957252609
+    second: Bricks_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -47,11 +47,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 14
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -98,22 +98,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 360_F_526663207_FxdDUt7rgJR4ximFRsH85SYLDwgZntdN_0
+      name: Bricks_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 630
-        height: 360
+        width: 516
+        height: 389
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50b86b7662340f5f0800000000000000
-      internalID: -725005707778815227
+      spriteID: ffdfb2c9356a168b0800000000000000
+      internalID: -5160660819957252609
       vertices: []
       indices: 
       edges: []
@@ -121,7 +121,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 26c7474e0fd5e483ca955d0e5f8c71dd
     internalID: 0
     vertices: []
     indices: 
@@ -129,7 +129,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      360_F_526663207_FxdDUt7rgJR4ximFRsH85SYLDwgZntdN_0: -725005707778815227
+      Bricks_0: -5160660819957252609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
