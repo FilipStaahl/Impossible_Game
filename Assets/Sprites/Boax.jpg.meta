@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 09fdf860ac3384c358b976a7fba2dde4
+guid: 8cd78366603f843a4a11516029210841
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5160660819957252609
-    second: Bricks_0
+      213: 5887198300417078043
+    second: Boax_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -47,7 +47,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 14
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -98,22 +98,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bricks_0
+      name: Boax_0
       rect:
         serializedVersion: 2
-        x: 66
+        x: 0
         y: 0
-        width: 450
-        height: 389
+        width: 225
+        height: 225
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffdfb2c9356a168b0800000000000000
-      internalID: -5160660819957252609
+      spriteID: b13b4aa99a783b150800000000000000
+      internalID: 5887198300417078043
       vertices: []
       indices: 
       edges: []
@@ -121,15 +121,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 26c7474e0fd5e483ca955d0e5f8c71dd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Bricks_0: -5160660819957252609
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
